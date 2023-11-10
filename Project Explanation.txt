@@ -1,0 +1,3 @@
+A two day hackathon where the goal was to present a case study that had to do with the climate crisis and Canada. All data manipulation was done in Python using Google Colab. My team's case study was on the social and environmental consequences of lithium extraction in Chile, as this is where Canada imports a majority of its lithium. 
+
+Link to the project website: https://www.dawsoncollege.qc.ca/dawscon/datachallenge23/ 
